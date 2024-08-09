@@ -1,5 +1,7 @@
 
-<h1>Hi, I'm Teanna, an IT Professional
+<h1>Hi, I'm Teanna!
+  
+  An IT Professional
 
 <h2> Information Technology Projects</h2>
 
